@@ -36,3 +36,7 @@ def run_ml_app():
         else:
             st.write('예측 결과는 당뇨병입니다.')
 
+
+
+            
+
