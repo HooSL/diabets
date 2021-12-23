@@ -14,7 +14,7 @@ def main():
     choice = st.sidebar.selectbox('메뉴선택',menu)
 
     if choice == '홈':
-        st.subheader('당뇨병 데이터 분석 및 예측')
+        st.subheader('당뇨병 데이터 분석 및 예측 앱!')
 
     elif choice == '데이터 분석':
         run_eda_app()
